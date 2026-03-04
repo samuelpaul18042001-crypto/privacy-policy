@@ -1,0 +1,69 @@
+Privacy Policy
+
+Live Train Status & PNR – RailTrack
+
+Last updated: March 4, 2026
+
+This Privacy Policy describes how Live Train Status & PNR – RailTrack ("we", "our", or "the App") collects, uses, and protects your information when you use our mobile application.
+
+1. Information We Collect
+
+a) Location Data
+The App accesses your device's location (GPS) only when you use the following features:
+
+Live Train Tracking (GPS Mode) – to determine your real-time position on a train route.
+Station Arrival Alarm – to notify you when you are approaching your destination station.
+Location data is processed locally on your device and is not transmitted to our servers or shared with any third party. Location access is used only while the feature is actively running via a foreground service with a visible notification.
+
+b) PNR & Train Search Data
+When you search for trains, check PNR status, or check seat availability, the App sends your query (train number, PNR number, station codes, travel date) to Indian Railways public data sources to fetch results. We do not store your PNR numbers or search queries on any external server.
+
+c) Locally Stored Data
+The App stores the following data locally on your device only:
+
+Recent train searches (for your convenience)
+Saved alarms and preferences
+Favorite trains/stations
+This data never leaves your device unless you choose to clear it.
+
+d) Audio Permission
+The App may request microphone access for voice-based train/station search. Audio is processed on-device and is not recorded or stored.
+
+2. Information We Do NOT Collect
+
+Personal identity information (name, email, phone number)
+Payment or financial information
+Contacts, SMS, or call logs
+Photos, files, or media
+Advertising identifiers or analytics profiles
+3. Third-Party Services
+
+The App uses the following third-party services:
+
+Service	Purpose	Privacy Policy
+Google Maps SDK	Display train routes and maps	Google Privacy Policy
+Indian Railways / IRCTC APIs	Fetch train data, PNR status, seat availability	IRCTC Privacy Policy
+We do not integrate any advertising SDKs, analytics SDKs, or social media trackers.
+
+4. Permissions Explained
+
+Permission	Why It's Needed
+Internet & Network State	To fetch live train data and PNR status
+Location (Foreground)	GPS-based train tracking and station alarm
+Notifications	To send station arrival alerts and train updates
+Vibrate & Wake Lock	To alert you when your station is approaching
+Boot Completed	To restore active alarms after device restart
+Exact Alarm	To schedule station arrival notifications accurately
+5. Data Security
+
+All network communication uses HTTPS encryption. Data stored locally on your device is accessible only to the App and is removed when you uninstall the App.
+
+6. Children's Privacy
+
+The App does not knowingly collect any personal information from children under 13. The App is a general-purpose utility and does not require any account creation.
+
+7. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Any changes will be reflected with an updated "Last updated" date at the top of this page.
+
+
