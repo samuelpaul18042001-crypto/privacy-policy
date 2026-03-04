@@ -1,0 +1,53 @@
+Privacy Policy
+Ludo Classic Board Game — Last updated: March 4, 2026
+
+1. Introduction
+Welcome to Ludo Classic Board Game ("we", "our", "us"). This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application ("App"). We are committed to protecting your privacy and ensuring transparency about our data practices.
+
+2. Information We Collect
+We do not collect any personal information. Our app is designed to work entirely offline and does not require any account creation, login, or personal data.
+
+The App may store the following data locally on your device only:
+
+Game Preferences: Board theme, token skin, dice skin, sound settings
+Player Profile: Display name, avatar selection, level progress, XP and coins
+Game Statistics: Games played, games won, win streak, achievements
+This data is stored using Android DataStore on your device and is never transmitted to any server.
+
+3. Data Collection & Transmission
+We do not collect personal information (name, email, phone number, address)
+We do not collect device identifiers or advertising IDs
+We do not collect location data
+We do not use analytics or tracking tools
+We do not transmit any data over the internet
+The App works 100% offline with no internet connection required
+4. Third-Party Services
+The App does not integrate any third-party services, SDKs, or APIs that collect user data. Specifically:
+
+No third-party analytics (e.g., Google Analytics, Firebase Analytics)
+No advertising networks or ad SDKs
+No social media integrations
+No crash reporting services
+5. Children's Privacy
+Our App is suitable for users of all ages. Since we do not collect any personal information from any user, we are compliant with the Children's Online Privacy Protection Act (COPPA) and similar international regulations.
+
+6. Data Storage & Security
+All game data is stored locally on your device using Android's secure DataStore mechanism. This data:
+
+Remains on your device at all times
+Is not accessible to other apps
+Is automatically deleted when you uninstall the App
+Can be cleared manually through Settings > Apps > Ludo Classic Board Game > Clear Data
+7. Permissions
+The App does not request any special device permissions. It does not access your camera, microphone, contacts, storage, location, or any other sensitive device features.
+
+8. Changes to This Policy
+We may update this Privacy Policy from time to time. Any changes will be reflected on this page with an updated "Last updated" date.
+
+9. Your Rights
+Since we do not collect or store any personal data on our servers, there is no personal data for us to access, modify, or delete. All your game data is stored locally on your device and is fully under your control.
+
+10. Contact Us
+Email: ranjithgames.dev@gmail.com
+Developer: Ranjith
+App: Ludo Classic Board Game
