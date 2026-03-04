@@ -1,0 +1,115 @@
+RokuMote Privacy Policy
+=======================
+
+Effective Date: March 4, 2026
+
+
+1. Introduction
+
+This Privacy Policy describes how RokuMote ("we," "our," or "the App") handles information when you use our mobile application. RokuMote is a remote control application for Roku streaming devices, available on the Apple App Store.
+
+We are committed to protecting your privacy. This policy is designed to be transparent about our data practices.
+
+
+2. Information We Do Not Collect
+
+RokuMote itself does not collect, store, or transmit any of the following:
+
+- Personal information (name, email, phone number, address)
+- Location data (GPS, IP-based, or otherwise)
+- Browsing or search history
+- Contacts, photos, or other device content
+- Financial or payment information
+- Health or fitness data
+
+
+3. How the App Works
+
+RokuMote communicates exclusively with Roku devices on your local Wi-Fi network using the Roku External Control Protocol (ECP). This is a standard HTTP-based protocol provided by Roku, Inc.
+
+All communication with your Roku device occurs directly between your iPhone/iPad and the Roku device over your local network. No app data passes through our servers. We do not operate any servers or cloud infrastructure for this app.
+
+
+4. Local Network Access
+
+RokuMote requires access to your local network to discover and communicate with Roku devices. This permission is used solely to:
+
+- Discover Roku devices on your Wi-Fi network via SSDP (Simple Service Discovery Protocol)
+- Send remote control commands (keypress, channel launch, etc.) to your Roku device
+- Retrieve device information, installed channels, and playback status from your Roku
+
+No network traffic leaves your local network as a result of using RokuMote's core remote control functionality.
+
+
+5. Data Stored on Your Device
+
+RokuMote stores the following data locally on your device only (never transmitted to us):
+
+- Saved Roku devices: IP address, friendly name, and model information of Roku devices you have connected to
+- App preferences: Your chosen theme (light/dark/auto), navigation mode (D-Pad/Touchpad), touchpad sensitivity, and haptic feedback preference
+- Cached channel icons: App icons from your Roku device, cached locally for faster loading
+
+All locally stored data can be deleted by uninstalling the app.
+
+
+6. Advertising
+
+RokuMote displays banner advertisements provided by Google AdMob. Google AdMob is a third-party advertising service operated by Google LLC. When ads are displayed, Google AdMob may collect and use certain information, including:
+
+- Device advertising identifier (IDFA), subject to your App Tracking Transparency (ATT) preference
+- General device information (device model, OS version)
+- IP address (used to determine approximate location at the city level for ad targeting)
+- Ad interaction data (impressions and clicks)
+
+This data is collected and processed by Google, not by us. We do not have access to or control over the personal data collected by Google AdMob.
+
+You can limit ad tracking by:
+- Going to Settings > Privacy & Security > Tracking on your iPhone/iPad and disabling "Allow Apps to Request to Track"
+- Going to Settings > Privacy & Security > Apple Advertising and disabling "Personalized Ads"
+
+For more information on how Google handles your data, please see:
+- Google Privacy Policy: https://policies.google.com/privacy
+- How Google uses data from apps: https://policies.google.com/technologies/partner-sites
+
+
+7. In-App Purchases
+
+RokuMote may offer optional in-app purchases (e.g., RokuMote Pro). All purchases are processed entirely by Apple through the App Store. We do not receive, process, or store any payment or financial information. Please refer to Apple's Privacy Policy (https://www.apple.com/legal/privacy/) for details on how Apple handles purchase transactions.
+
+
+8. Third-Party Services
+
+The only third-party service integrated into RokuMote is Google AdMob for displaying advertisements. No other third-party analytics, tracking, or data collection services are embedded in the app.
+
+
+9. Children's Privacy
+
+RokuMote does not knowingly collect personal information from children under the age of 13. The advertisements displayed are subject to Google's advertising policies. The app is rated 4+ on the App Store.
+
+
+10. Security
+
+RokuMote does not collect or transmit personal user data to our own servers. All communication with Roku devices occurs over your local Wi-Fi network using standard HTTP protocols as specified by the Roku ECP. The third-party advertising SDK (Google AdMob) uses industry-standard security measures for its data collection.
+
+
+11. Changes to This Policy
+
+We may update this Privacy Policy from time to time. If we make material changes, we will update the "Effective Date" at the top of this page. We encourage you to review this policy periodically.
+
+
+12. Your Rights
+
+Under applicable privacy laws (including GDPR and CCPA), you may have rights regarding your personal data. Since we do not collect personal data directly, most data subject requests should be directed to Google regarding data collected through AdMob. You can manage your ad preferences through your device settings as described in Section 6.
+
+If you have any questions about your privacy in relation to RokuMote, please contact us using the information below.
+
+
+13. Contact Us
+
+If you have any questions or concerns about this Privacy Policy or the app, please contact us at:
+
+Email: johnpaul93478@gmail.com
+
+
+---
+© 2026 RokuMote. All rights reserved.
