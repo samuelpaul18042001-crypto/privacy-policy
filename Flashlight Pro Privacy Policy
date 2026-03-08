@@ -1,0 +1,25 @@
+PRIVACY POLICY — Flashlight Pro: LED Torch SOS
+Last updated: March 8, 2026
+Overview
+Flashlight Pro: LED Torch SOS ("the App") is a simple utility app that turns your phone into a flashlight, strobe light, SOS signal, color screen light, and compass. We are committed to protecting your privacy. This policy explains what data the App does and does not collect.
+Data We Do NOT Collect
+We do not collect, store, transmit, or share any personal information. The App does not collect your name, email address, location, device identifiers, usage statistics, or any other personal data. The App does not connect to the internet and has no servers or databases.
+Permissions Used
+The App requests the following permissions solely to provide its core features:
+
+Camera — Required to access the rear LED flash for the flashlight and strobe functions. The camera is never used to take photos or record video.
+Flashlight — Required to control the camera flash LED directly.
+Wake Lock — Keeps the screen on while the screen light or compass is active, so the App doesn't turn off mid-use.
+Vibrate — Reserved for optional haptic feedback on button presses.
+
+None of these permissions are used for tracking, analytics, or data collection of any kind.
+Third-Party Services
+The App does not use any third-party SDKs, analytics tools, advertising networks, or crash reporting services that collect user data.
+Children's Privacy
+The App does not knowingly collect any information from children under the age of 13. It contains no age-restricted content.
+Changes to This Policy
+If we update this privacy policy, the new version will be posted at this URL with a revised "Last updated" date.
+Contact
+If you have any questions about this privacy policy, contact us at:
+johnpaul93478@gmail.com
+
