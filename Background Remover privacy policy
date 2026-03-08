@@ -1,0 +1,176 @@
+PRIVACY POLICY — BG REMOVER: BACKGROUND ERASER
+════════════════════════════════════════════════════════════════════════
+
+Last Updated: March 8, 2026
+Developer: Balineni
+Contact: johnpaul93478@gmail.com
+
+────────────────────────────────────────────────────────────────────────
+OVERVIEW
+────────────────────────────────────────────────────────────────────────
+
+BG Remover: Background Eraser ("the App", "we", "our") is a
+background removal application for Android. This Privacy Policy explains
+how we handle your data when you use our App.
+
+THE SHORT VERSION:
+We do not collect, store, transmit, or share any of your personal data
+or photos. All image processing happens entirely on your device. Your
+photos never leave your phone.
+
+────────────────────────────────────────────────────────────────────────
+1. INFORMATION WE COLLECT
+────────────────────────────────────────────────────────────────────────
+
+We do NOT collect any of the following:
+  • Personal information (name, email address, phone number, etc.)
+  • Photos, images, or any media files you process in the App
+  • Location data
+  • Device identifiers or advertising IDs
+  • Usage analytics or behavioral data
+  • Crash reports or diagnostic data
+  • Any form of account or profile information
+
+The App does not require you to create an account or log in.
+The App does not require an internet connection to function.
+
+────────────────────────────────────────────────────────────────────────
+2. HOW THE APP PROCESSES YOUR PHOTOS
+────────────────────────────────────────────────────────────────────────
+
+All image processing in BG Remover is performed entirely on your
+device using Google ML Kit, which is a local, on-device machine
+learning library provided by Google.
+
+  • Your photos are NEVER uploaded to any server.
+  • Your photos are NEVER transmitted over the internet.
+  • Processing happens locally in your phone's memory.
+  • Processed results are saved only to your device's local storage
+    (specifically, the Pictures/BGRemover folder on your phone).
+
+────────────────────────────────────────────────────────────────────────
+3. PERMISSIONS WE REQUEST AND WHY
+────────────────────────────────────────────────────────────────────────
+
+The App requests the following Android permissions:
+
+  READ_MEDIA_IMAGES (Android 13+) /
+  READ_EXTERNAL_STORAGE (Android 12 and below):
+    → Required to let you select photos from your gallery for
+      background removal. We only read the specific image you choose.
+      We do not scan, index, or access any other files.
+
+  WRITE_EXTERNAL_STORAGE (Android 9 and below):
+    → Required to save the processed (background-removed) image to
+      your gallery. On Android 10+, this is handled without this
+      permission using scoped storage.
+
+  CAMERA:
+    → Required only if you choose to use the in-app camera feature to
+      capture a new photo directly. This permission is optional —
+      you can use the App without granting camera access by choosing
+      images from your gallery instead.
+
+  VIBRATE:
+    → Used for haptic feedback (subtle vibration) when interacting
+      with buttons. No data is involved.
+
+  POST_NOTIFICATIONS:
+    → Used to show processing progress notifications. No data is
+      transmitted. This permission is optional.
+
+────────────────────────────────────────────────────────────────────────
+4. GOOGLE ML KIT
+────────────────────────────────────────────────────────────────────────
+
+BG Remover uses Google ML Kit's Subject Segmentation API for
+on-device background removal. This library runs entirely on your
+device and does not send image data to Google's servers.
+
+For more information on Google ML Kit's data practices, please refer
+to Google's Privacy Policy: https://policies.google.com/privacy
+
+────────────────────────────────────────────────────────────────────────
+5. THIRD-PARTY SERVICES
+────────────────────────────────────────────────────────────────────────
+
+The App does not integrate any third-party advertising SDKs,
+analytics platforms, crash reporting tools, or social media SDKs.
+
+The App does not display advertisements.
+The App does not track you across other apps or websites.
+
+────────────────────────────────────────────────────────────────────────
+6. DATA STORAGE AND RETENTION
+────────────────────────────────────────────────────────────────────────
+
+The only data stored by the App is:
+
+  • A local database (Room/SQLite) on your device that stores
+    references (file paths) to your processed images and their
+    metadata (file name, dimensions, file size, date processed).
+    This data never leaves your device.
+
+  • App settings and preferences (edge softness, sensitivity,
+    output format, etc.) stored locally via Android DataStore.
+    This data never leaves your device.
+
+You can delete all locally stored data at any time by:
+  • Using the "Clear History" button within the App
+  • Uninstalling the App (removes all App data)
+  • Going to Android Settings → Apps → BG Remover: Background Eraser → Clear Data
+
+────────────────────────────────────────────────────────────────────────
+7. CHILDREN'S PRIVACY
+────────────────────────────────────────────────────────────────────────
+
+The App does not collect any data from any user, including children.
+The App is suitable for all ages. Since we collect no personal
+information, the App complies with the Children's Online Privacy
+Protection Act (COPPA) and similar regulations worldwide.
+
+────────────────────────────────────────────────────────────────────────
+8. SECURITY
+────────────────────────────────────────────────────────────────────────
+
+Since all data is processed and stored locally on your device, the
+security of your images depends on your device's security settings
+(screen lock, encryption, etc.). We have no access to your data and
+therefore no ability to breach it.
+
+────────────────────────────────────────────────────────────────────────
+9. YOUR RIGHTS
+────────────────────────────────────────────────────────────────────────
+
+Since we do not collect any personal data, there is no data for us
+to provide, correct, or delete on our end. All data related to your
+use of the App resides only on your device and is entirely within
+your control.
+
+If you wish to delete all data associated with the App, simply
+uninstall it from your device.
+
+────────────────────────────────────────────────────────────────────────
+10. CHANGES TO THIS PRIVACY POLICY
+────────────────────────────────────────────────────────────────────────
+
+We may update this Privacy Policy from time to time. Any changes
+will be reflected by updating the "Last Updated" date at the top of
+this page. Continued use of the App after any changes constitutes
+acceptance of the updated Privacy Policy.
+
+We will not make any changes that introduce data collection without
+prominently notifying users through the App or Play Store listing.
+
+────────────────────────────────────────────────────────────────────────
+11. CONTACT US
+────────────────────────────────────────────────────────────────────────
+
+If you have any questions or concerns about this Privacy Policy,
+please contact us at:
+
+  Email: johnpaul93478@gmail.com
+
+
+
+════════════════════════════════════════════════════════════════════════
