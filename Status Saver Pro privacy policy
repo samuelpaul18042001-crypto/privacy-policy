@@ -1,0 +1,152 @@
+Privacy Policy for Status Saver Pro
+
+Last updated: March 2026
+
+This Privacy Policy describes how Status Saver Pro ("the App", "we", "us", or
+"our") handles information when you use our Android application. We are committed
+to protecting your privacy. Please read this policy carefully.
+
+─────────────────────────────────────
+1. INFORMATION WE DO NOT COLLECT
+─────────────────────────────────────
+
+Status Saver Pro does not collect, store, transmit, or share any personally
+identifiable information (PII). Specifically:
+
+  • We do not require you to create an account or log in.
+  • We do not collect your name, email address, phone number, or any personal
+    identifier.
+  • We do not track your location.
+  • We do not access your contacts list.
+  • We do not read, transmit, or store the content of your WhatsApp messages
+    beyond displaying them temporarily on your device screen.
+  • We do not upload any files, photos, or videos to any remote server.
+  • We do not sell, rent, or share any data with third parties.
+
+─────────────────────────────────────
+2. INFORMATION PROCESSED LOCALLY ON YOUR DEVICE
+─────────────────────────────────────
+
+The App processes the following data entirely on your device and never sends
+it anywhere:
+
+  a) WhatsApp Status Media
+     The App reads media files (images, videos, GIFs) from WhatsApp's and
+     WhatsApp Business's status directories on your device's local storage.
+     These files are displayed within the App and, if you choose, saved to
+     your device gallery. No file is sent to any server.
+
+  b) WhatsApp Notification Data (Deleted Messages Feature)
+     If you grant Notification Listener permission, the App reads the text
+     and sender name from incoming WhatsApp and WhatsApp Business
+     notifications. This data is stored in an encrypted local database on
+     your device only. It is never transmitted off your device. You can
+     delete this data at any time from within the App (Deleted tab →
+     Clear All).
+
+  c) App Preferences
+     The App saves your in-app settings (e.g., auto-save toggle, dark mode
+     preference, folder access permissions) locally using Android's
+     SharedPreferences. This data is not accessible to us or any third party.
+
+─────────────────────────────────────
+3. PERMISSIONS WE REQUEST AND WHY
+─────────────────────────────────────
+
+The App requests the following Android permissions:
+
+  • READ_EXTERNAL_STORAGE / READ_MEDIA_IMAGES / READ_MEDIA_VIDEO
+    → Required to read and display WhatsApp status files on your device.
+
+  • WRITE_EXTERNAL_STORAGE / MANAGE_EXTERNAL_STORAGE
+    → Required to save status photos and videos to your gallery.
+
+  • BIND_NOTIFICATION_LISTENER_SERVICE / POST_NOTIFICATIONS
+    → Required for the optional Deleted Messages feature. The App uses this
+      to read the text of WhatsApp notifications before they disappear.
+      This permission is optional — the App works without it; only the
+      Deleted Messages tab requires it. You can revoke this permission
+      at any time in Android Settings → Notification Access.
+
+  • FOREGROUND_SERVICE / FOREGROUND_SERVICE_DATA_SYNC
+    → Required to run the background file-watching service that detects
+      new WhatsApp statuses in real time. A persistent notification is
+      shown while this service is active, as required by Android.
+
+  • RECEIVE_BOOT_COMPLETED
+    → Required to restart the background service automatically when your
+      device reboots, so status monitoring continues without manual action.
+
+  • INTERNET / ACCESS_NETWORK_STATE
+    → Required to display ads if ad services are integrated in a future
+      version. Currently, the App makes no network requests for user data.
+
+  • VIBRATE
+    → Used to provide haptic feedback when saving a file.
+
+─────────────────────────────────────
+4. THIRD-PARTY SERVICES
+─────────────────────────────────────
+
+The current version of Status Saver Pro does not integrate any third-party
+analytics, advertising, or crash-reporting SDKs. If this changes in a future
+version, this policy will be updated accordingly and users will be notified
+via an app update.
+
+─────────────────────────────────────
+5. CHILDREN'S PRIVACY
+─────────────────────────────────────
+
+Status Saver Pro is not directed at children under the age of 13. We do not
+knowingly collect any personal information from children. If you believe a
+child has provided personal information through the App, please contact us
+and we will take appropriate action.
+
+─────────────────────────────────────
+6. DATA SECURITY
+─────────────────────────────────────
+
+Since we do not collect or transmit any user data, the risk of a data breach
+affecting our users is minimal. All data processed by the App (notification
+history, preferences) is stored locally on your device and protected by your
+device's own security mechanisms (screen lock, encryption).
+
+─────────────────────────────────────
+7. DATA RETENTION AND DELETION
+─────────────────────────────────────
+
+  • Saved status files: Stored in your device gallery under the folder
+    "StatusSaverPro" until you delete them manually.
+  • Deleted message records: Stored locally on your device until you tap
+    "Clear All" in the Deleted tab, or until you uninstall the App.
+  • App preferences: Cleared automatically when you uninstall the App.
+
+We have no access to any of this data and cannot delete it on your behalf.
+You are in full control.
+
+─────────────────────────────────────
+8. YOUR RIGHTS
+─────────────────────────────────────
+
+Since all data is stored locally on your device and we collect nothing, you
+have full control at all times:
+
+  • Access: View your saved statuses and deleted messages in the App.
+  • Delete: Use the in-app delete functions or uninstall the App.
+  • Revoke permissions: Go to Android Settings → Apps → Status Saver Pro
+    → Permissions and revoke any permission at any time.
+
+─────────────────────────────────────
+9. CHANGES TO THIS PRIVACY POLICY
+─────────────────────────────────────
+
+We may update this Privacy Policy from time to time. Any changes will be
+posted at the same URL and the "Last updated" date at the top will be revised.
+Continued use of the App after changes are posted constitutes your acceptance
+of the updated policy.
+
+──────────────────────────────────────────────────────────────────────────────────
+This App is an independent tool and is not affiliated with, endorsed by, or
+connected to WhatsApp Inc. or Meta Platforms, Inc. in any way.
+WhatsApp® is a registered trademark of WhatsApp Inc.
+──────────────────────────────────────────────────────────────────────────────────
